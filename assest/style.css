@@ -1,0 +1,447 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: rgb(236, 229, 229);
+    line-height: 25px;
+    color: #777777;
+    
+}
+.center{
+    text-align: center;
+}
+.container {
+    width: auto!important;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.main{
+    
+    border-bottom: solid 1.5px;
+    border-bottom-color: gray;
+    padding-left:20px;
+    padding-right: 20px;
+    background: #ffffff;
+    height: 55px;
+    margin-bottom:20px; 
+
+}
+
+header{
+    margin-left:18%;
+    padding: 15px 20px 15px 20px;
+    text-align: center;
+    background: teal;
+    float: left;
+    color: #fff;   
+}
+
+
+#portfolio{
+    padding: 0px 20px 0px 20px;
+}
+
+.section{
+    padding: 2%;
+    background: #fff;
+    width: 960px;
+    margin:auto;
+    height: 960px;
+}
+
+
+h1{
+    border-bottom:solid 1.5px gray;
+    padding-bottom: 15px;
+    color: teal;
+}
+img{
+    float: left;
+    padding-right: 10px;
+}
+footer{
+    border-top: solid 3px;
+    border-top-color: teal;
+    padding: 0 20px 0 20px;
+    background:#666666;
+    height: 50px;
+    margin-bottom:1px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    color: #fff;
+}
+#name, #email, #message{
+    width: 100%;
+}
+
+#submit{
+    border:0;
+    color: #fff;
+    background: teal;
+    padding: 10px 20px;
+}
+.aa{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 205px;
+    left: 15px;
+    color: #ffffff;
+    background: green;
+	text-align:center;
+	font-weight:bold;
+    opacity:0.7;
+    
+}
+
+.bb{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 205px;
+    left: 224px;
+    color: #ffffff;
+    background: green;
+	text-align:center;
+	font-weight:bold;
+    opacity:0.7;
+    
+}
+
+.cc{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 205px;
+    left: 435px;
+    color: #ffffff;
+    background: green;
+	text-align:center;
+	font-weight:bold;
+    opacity:0.7;
+    
+}
+
+.dd{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 205px;
+    left: 645px;
+    color: #ffffff;
+    background: green;
+	text-align:center;
+	font-weight:bold;
+    opacity:0.7;
+    
+}
+
+.ee{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 205px;
+    left: 855px;
+    color: #ffffff;
+    background: green;
+	text-align:center;
+	font-weight:bold;
+    opacity:0.7;
+    
+}
+
+.ff{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    top: 205px;
+    left: 1065px;
+    color: #ffffff;
+    background: green;
+	text-align:center;
+	font-weight:bold;
+    opacity:0.7;
+    
+}
+
+img{
+    margin-bottom: 10px;
+    
+}
+form{
+    height: 544px;
+}
+#form{
+    height: 616px;
+}
+
+@media screen and (max-width: 1328.8px) {
+    .ff{
+        top: 200px;
+        left: 1065px;
+
+    }
+    .ee{
+        top: 200px;
+        left: 855px;
+    }
+    .dd{
+        top: 200px;
+        left: 645px;
+    }
+    .cc{
+        top: 200px;
+        left: 435px;
+    }
+    .bb{
+        top: 200px;
+        left: 225px;
+    }
+    .aa{
+        top: 200px;
+        left: 15px;
+    }
+    
+}
+@media screen and (max-width: 1289.8px) {
+    .ff{
+        top: 410px;
+        left: 15px;
+
+    }
+    .ee{
+        top: 205px;
+        left: 855px;
+    }
+    .dd{
+        top: 205px;
+        left: 645px;
+    }
+    .cc{
+        top: 205px;
+        left: 435px;
+    }
+    .bb{
+        top: 205px;
+        left: 225px;
+    }
+    .aa{
+        top: 205px;
+        left: 15px;
+    }
+    
+}
+
+@media screen and (max-width: 1109.8px) {
+    .ff{
+        top: 410px;
+        left: 15px;
+
+    }
+    .ee{
+        top: 205px;
+        left: 855px;
+    }
+    .dd{
+        top: 205px;
+        left: 645px;
+    }
+    .cc{
+        top: 205px;
+        left: 435px;
+    }
+    .bb{
+        top: 205px;
+        left: 225px;
+    }
+    .aa{
+        top: 205px;
+        left: 15px;
+    }
+    
+}
+@media screen and (max-width: 1079.8px) {
+    .ff{
+        top: 410px;
+        left: 225px;
+
+    }
+    .ee{
+        top: 410px;
+        left: 15px;
+    }
+    .dd{
+        top: 205px;
+        left: 645px;
+    }
+    .cc{
+        top: 205px;
+        left: 435px;
+    }
+    .bb{
+        top: 205px;
+        left: 225px;
+    }
+    .aa{
+        top: 205px;
+        left: 15px;
+    }
+    
+}
+@media screen and (max-width: 1065.8px) {
+    .ff{
+        top: 410px;
+        left: 225px;
+
+    }
+    .ee{
+        top: 410px;
+        left: 15px;
+    }
+    .dd{
+        top: 205px;
+        left: 645px;
+    }
+    .cc{
+        top: 205px;
+        left: 435px;
+    }
+    .bb{
+        top: 205px;
+        left: 225px;
+    }
+    .aa{
+        top: 205px;
+        left: 15px;
+    }
+
+    
+}
+@media screen and (max-width: 980px) {
+    body {
+        background-color: lightblue;
+        width: 965px;
+    }
+    .section{
+        font-size: 18px;
+        height: 550px;
+        padding: 2%;
+        background: #ffffff;
+        margin: auto;
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+    body {
+
+        background-color: lightcoral;
+        width: 753px;
+    }
+    .section{
+        font-size: 18px;
+        width: 661px;
+        padding: 2%;
+        background: #ffffff;
+        margin: auto;
+    }
+
+    
+
+    .ff{
+        top: 410px;
+        left: 435px;
+
+    }
+    .ee{
+        top: 410px;
+        left: 225px;
+    }
+    .dd{
+        top: 410px;
+        left: 15px;
+    }
+    .cc{
+        top: 205px;
+        left: 435px;
+    }
+    .bb{
+        top: 205px;
+        left: 225px;
+    }
+    .aa{
+        top: 205px;
+        left: 15px;
+    }
+    
+}
+
+
+@media screen and (max-width: 640px) {
+    body {
+        background-color: lightsteelblue;
+        width: 625px;
+    }
+
+    .main{
+        padding-left: 0px;
+        padding-right: 0px;
+        height: auto;
+    }
+    footer{
+        position: relative;
+    }
+   
+
+    .section{
+        font-size: 18px;
+        width: 450px;
+        padding: 2%;
+        background: #ffffff;
+        margin: 12px;
+        height: 740px;
+    }
+    section{
+        margin: 10%;
+    }
+    .ff{
+        top: 620px;
+        left: 225px;
+
+    }
+    .ee{
+        top: 620px;
+        left: 15px;
+    }
+    .dd{
+        top: 410px;
+        left: 225px;
+    }
+    .cc{
+        top: 410px;
+        left: 15px;
+    }
+    .bb{
+        top: 205px;
+        left: 225px;
+    }
+    .aa{
+        top: 205px;
+        left: 15px;
+    }
+
+    header {
+        float: none;
+        margin-left: 0px;
+    }
+
+    nav{
+        margin-left: 0%;
+        background: #fff;
+        text-align: center;
+    }
+}
