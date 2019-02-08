@@ -1,0 +1,32 @@
+body{
+    background-color: #f8f7f2;
+    background-image: url("https://www.transparenttextures.com/patterns/always-grey.png");
+    color: rgb(0, 0, 0)!important;
+    
+    height: 100%;
+     
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 1%;
+    color: white;
+    text-align: center;
+   
+ }
+
+a.navbar-brand{
+    text-align: center;
+}
+.row{
+    padding-top: 5%;
+}
+.content{
+    margin-bottom:5%; 
+}
+.card{
+    margin-bottom: 2%;
+    width: -webkit-fill-available
+}
