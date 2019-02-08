@@ -28,6 +28,7 @@ a.navbar-brand{
 }
 .card{
     margin-bottom: 5%;
-    width: -webkit-fill-available;
     border: 2px solid black!important;
+    width: -webkit-fill-available;
+    
 }
